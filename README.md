@@ -1,10 +1,13 @@
 ## Hi there 👋
+Este repositorio es mi espacio personal 🌐 donde recopilo proyectos, prácticas y experimentos desarrollados durante mi formación como estudiante de Ingeniería de Sistemas 💻.
+Aquí encontrarás código relacionado con programación, desarrollo web, bases de datos y algoritmos 📚.
+Mi objetivo es documentar mi progreso, compartir conocimientos y construir una base sólida para futuros proyectos profesionales 🚀.
 
 <!--
 **mchl24rr-lab/mchl24rr-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
